@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Acme 9 Regular';
+    src: url('Acme 9 Regular.ttf');
+}
+h1
+{
+    text-align: center;
+    font-family: 'Acme 9 Regular';
+}
+.game-button
+{
+    width: 10vw;
+    height: 5vh;
+    font-family: 'Acme 9 Regular';
+    font-size: large;
+}
+.game-div
+{
+    align-items: normal;
+    text-align: center;
+    width: 30vw;
+    height: 30vw;
+    font-family: 'Acme 9 Regular';
+    font-size: xx-large;
+}
+.game-screenshot
+{
+    width: 14vw;
+    height: 14vh;
+}
