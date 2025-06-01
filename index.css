@@ -12,15 +12,15 @@ html, body
     margin: 0;
     padding: 0;
     height: 100%;
-    background-color: black;
-    color: white;
+    background-color: #111111;
+    color: #DDDDDD;
 }
 h1
 {
     text-align: center;
     font-family: 'Acme 9 Regular';
 }
-a { color: #0000EE; }
+a { color: #2222EE; }
 .grid
 {
     display: grid;
