@@ -9,22 +9,23 @@ h1
 }
 .game-button
 {
-    width: 10vw;
-    height: 5vh;
+    width: fit-content;
+    height: fit-content;
     font-family: 'Acme 9 Regular';
     font-size: large;
 }
 .game-div
 {
-    align-items: normal;
+    margin: auto;
+    float: left;
     text-align: center;
-    width: 30vw;
-    height: 30vw;
+    width: 50%;
+    height: 50%;
     font-family: 'Acme 9 Regular';
     font-size: xx-large;
 }
 .game-screenshot
 {
-    width: 14vw;
-    height: 14vh;
+    width: 48%;
+    height: 48%;
 }
